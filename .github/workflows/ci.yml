@@ -2,7 +2,7 @@ name: Air Quality Analysis CI
 
 on:
   push:
-    branches: [ master, develop ]
+    branches: [ master, dev ]
   pull_request:
     branches: [ master ]
 
